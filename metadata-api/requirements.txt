@@ -72,3 +72,4 @@ web3==3.11.0
 Werkzeug==0.12.2
 yarl==0.12.0
 zmq==0.0.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
